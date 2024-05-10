@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-09T09:10:48+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+00:00</published><updated>2018-08-22T00:00:00+00:00</updated><id>http://localhost:4000/2018/08/22/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/22/kiwifruit.html"><![CDATA[<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-10T08:18:12+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Bootstrap简介实例1</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1.html" rel="alternate" type="text/html" title="Bootstrap简介实例1" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1.html"><![CDATA[<div class="container">
+  <div class="jumbotron">
+    <h1>我的第一个 Bootstrap 页面</h1>
+    <p>重置窗口大小，查看响应式效果！</p> 
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>第一列</h3>
+      <p>学的不仅是技术，更是梦想！</p>
+      <p>再牛逼的梦想,也抵不住你傻逼似的坚持！</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>第二列</h3>
+      <p>学的不仅是技术，更是梦想！</p>
+      <p>再牛逼的梦想,也抵不住你傻逼似的坚持！</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>第三列</h3>        
+      <p>学的不仅是技术，更是梦想！</p>
+      <p>再牛逼的梦想,也抵不住你傻逼似的坚持！</p>
+    </div>
+  </div>
+</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[我的第一个 Bootstrap 页面 重置窗口大小，查看响应式效果！ 第一列 学的不仅是技术，更是梦想！ 再牛逼的梦想,也抵不住你傻逼似的坚持！ 第二列 学的不仅是技术，更是梦想！ 再牛逼的梦想,也抵不住你傻逼似的坚持！ 第三列 学的不仅是技术，更是梦想！ 再牛逼的梦想,也抵不住你傻逼似的坚持！]]></summary></entry><entry><title type="html">Bootstrap简介实例2</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B2.html" rel="alternate" type="text/html" title="Bootstrap简介实例2" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B2</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B2.html"><![CDATA[<div class="table-responsive">          
+ <table class="table table-striped table-bordered">
+   <thead>
+     <tr>
+       <th>#</th>
+       <th>Name</th>
+       <th>Street</th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td>1</td>
+       <td>Anna Awesome</td>
+       <td>Broome Street</td>
+     </tr>
+     <tr>
+       <td>2</td>
+       <td>Debbie Dallas</td>
+       <td>Houston Street</td>
+     </tr>
+     <tr>
+       <td>3</td>
+       <td>John Doe</td>
+       <td>Madison Street</td>
+     </tr>
+   </tbody>
+ </table>
+</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[# Name Street 1 Anna Awesome Broome Street 2 Debbie Dallas Houston Street 3 John Doe Madison Street]]></summary></entry><entry><title type="html">Bootstrap网格系统</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F.html" rel="alternate" type="text/html" title="Bootstrap网格系统" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F.html"><![CDATA[<div class="container">
+    <div class="row">
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+            box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;box-shadow: 
+        inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+            enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+            nisi ut aliquip ex ea commodo consequat.
+            </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+            eiusmod tempor incididunt ut. 
+            </p>
+        </div>
+ 
+        <div class="clearfix visible-xs"></div>
+ 
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow:inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+            laboris nisi ut aliquip ex ea commodo consequat. 
+            </p>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;box-shadow: 
+        inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+            enim ad minim 
+            </p>
+        </div>
+    </div>
+</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim]]></summary></entry><entry><title type="html">Bootstrap面包屑导航</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA.html" rel="alternate" type="text/html" title="Bootstrap面包屑导航" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA.html"><![CDATA[<ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">2013</a></li>
+    <li class="active">十一月</li>
+</ul>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Home 2013 十一月]]></summary></entry><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+00:00</published><updated>2018-08-22T00:00:00+00:00</updated><id>http://localhost:4000/2018/08/22/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/22/kiwifruit.html"><![CDATA[<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the
 edible berry of several species of woody vines in the genus Actinidia.</p>
 
 <p>The most common cultivar group of kiwifruit is oval, about the size of
