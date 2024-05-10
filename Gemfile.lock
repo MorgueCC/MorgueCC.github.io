@@ -146,9 +146,12 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  i18n (~> 1.14.5)
   jekyll
-  jekyll-feed
-  jekyll-seo-tag
+  jekyll-feed (~> 0.17.0)
+  jekyll-seo-tag (~> 2.8.0)
+  rake (~> 13.2.1)
+  sass-embedded (~> 1.77.0)
 
 BUNDLED WITH
    2.5.10

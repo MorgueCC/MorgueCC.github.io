@@ -3,5 +3,5 @@ layout: post
 author: jill
 ---
 
-<img src="cinqueterre.jpg" class="img-responsive" alt="Cinque 
+<img src="/assets/images/猫.png" class="img-responsive" alt="Cinque 
 	Terre">
