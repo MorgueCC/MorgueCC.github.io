@@ -1,10 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-10T12:17:10+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Bootstrap代码</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81.html" rel="alternate" type="text/html" title="Bootstrap代码" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81.html"><![CDATA[<p><code>&lt;header&gt;</code> 作为内联元素被包围。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-10T13:19:59+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Bootstrap下拉菜单</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html" rel="alternate" type="text/html" title="Bootstrap下拉菜单" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html"><![CDATA[<div class="dropdown">
+    <button type="button" class="btn dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">主题
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+        <li role="presentation" class="dropdown-header">下拉菜单标题</li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">Java</a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">数据挖掘</a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">数据通信/网络</a>
+        </li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation" class="dropdown-header">下拉菜单标题</li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">分离的链接</a>
+        </li>
+    </ul>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[主题 下拉菜单标题 Java 数据挖掘 数据通信/网络 下拉菜单标题 分离的链接]]></summary></entry><entry><title type="html">Bootstrap代码</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81.html" rel="alternate" type="text/html" title="Bootstrap代码" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81.html"><![CDATA[<p><code>&lt;header&gt;</code> 作为内联元素被包围。</p>
 <p>如果需要把代码显示为一个独立的块元素，请使用 &lt;pre&gt; 标签：</p>
 <pre>
     &lt;article&gt;
         &lt;h1&gt;Article Heading&lt;/h1&gt;
     &lt;/article&gt;
-</pre>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[&lt;header&gt; 作为内联元素被包围。 如果需要把代码显示为一个独立的块元素，请使用 &lt;pre&gt; 标签： &lt;article&gt; &lt;h1&gt;Article Heading&lt;/h1&gt; &lt;/article&gt;]]></summary></entry><entry><title type="html">Bootstrap图片</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87.html" rel="alternate" type="text/html" title="Bootstrap图片" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87.html"><![CDATA[<p><img src="/assets/images/猫.png" class="img-responsive" alt="Cinque  	Terre" /></p>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Bootstrap导航栏</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F.html" rel="alternate" type="text/html" title="Bootstrap导航栏" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F.html"><![CDATA[<nav class="navbar navbar-inverse" role="navigation">
+</pre>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[&lt;header&gt; 作为内联元素被包围。 如果需要把代码显示为一个独立的块元素，请使用 &lt;pre&gt; 标签： &lt;article&gt; &lt;h1&gt;Article Heading&lt;/h1&gt; &lt;/article&gt;]]></summary></entry><entry><title type="html">Bootstrap分页</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%88%86%E9%A1%B5.html" rel="alternate" type="text/html" title="Bootstrap分页" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%88%86%E9%A1%B5</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%88%86%E9%A1%B5.html"><![CDATA[<ul class="pagination">
+    <li><a href="#">&laquo;</a></li>
+    <li><a href="#">1</a></li>
+    <li><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    <li><a href="#">4</a></li>
+    <li><a href="#">5</a></li>
+    <li><a href="#">&raquo;</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[&laquo; 1 2 3 4 5 &raquo;]]></summary></entry><entry><title type="html">Bootstrap响应式实用工具</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7.html" rel="alternate" type="text/html" title="Bootstrap响应式实用工具" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7.html"><![CDATA[<div class="container" style="padding: 40px;">
+    <div class="row visible-on">
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-xs">特别小型</span>
+            <span class="visible-xs">✔ 在特别小型设备上可见</span>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-sm">小型</span>
+            <span class="visible-sm">✔ 在小型设备上可见</span>
+        </div>
+        <div class="clearfix visible-xs"></div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-md">中型</span>
+            <span class="visible-md">✔ 在中型设备上可见</span>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-lg">大型</span>
+            <span class="visible-lg">✔ 在大型设备上可见</span>
+        </div>
+    </div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[特别小型 ✔ 在特别小型设备上可见 小型 ✔ 在小型设备上可见 中型 ✔ 在中型设备上可见 大型 ✔ 在大型设备上可见]]></summary></entry><entry><title type="html">Bootstrap图片</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87.html" rel="alternate" type="text/html" title="Bootstrap图片" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87.html"><![CDATA[<p><img src="/assets/images/猫.png" class="img-responsive" alt="Cinque  	Terre" /></p>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Bootstrap字体图标</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%AD%97%E4%BD%93%E5%9B%BE%E6%A0%87.html" rel="alternate" type="text/html" title="Bootstrap字体图标" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%AD%97%E4%BD%93%E5%9B%BE%E6%A0%87</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%AD%97%E4%BD%93%E5%9B%BE%E6%A0%87.html"><![CDATA[<p>
+    <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-sort-by-attributes"></span>
+    </button>
+    <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-sort-by-attributes-alt"></span>
+    </button>
+    <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-sort-by-order"></span>
+    </button>
+    <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-sort-by-order-alt"></span>
+    </button>
+</p>
+<p><button type="button" class="btn btn-default btn-lg">
+    <span class="glyphicon glyphicon-user"></span> User
+</button>
+<button type="button" class="btn btn-default btn-sm">
+    <span class="glyphicon glyphicon-user"></span> User
+</button>
+<button type="button" class="btn btn-default btn-xs">
+    <span class="glyphicon glyphicon-user"></span> User
+</button></p>]]></content><author><name></name></author><summary type="html"><![CDATA[User User User]]></summary></entry><entry><title type="html">Bootstrap导航栏</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F.html" rel="alternate" type="text/html" title="Bootstrap导航栏" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F.html"><![CDATA[<nav class="navbar navbar-inverse" role="navigation">
     <div class="container-fluid">
     <div class="navbar-header">
         <a class="navbar-brand" href="#">菜鸟教程</a>
@@ -30,7 +105,38 @@
         </ul>
     </div>
     </div>
-</nav>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[菜鸟教程 iOS SVN Java jmeter EJB Jasper Report 分离的链接 另一个分离的链接]]></summary></entry><entry><title type="html">Bootstrap按钮</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E6%8C%89%E9%92%AE.html" rel="alternate" type="text/html" title="Bootstrap按钮" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E6%8C%89%E9%92%AE</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E6%8C%89%E9%92%AE.html"><![CDATA[<div class="btn-group">
+</nav>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[菜鸟教程 iOS SVN Java jmeter EJB Jasper Report 分离的链接 另一个分离的链接]]></summary></entry><entry><title type="html">Bootstrap徽章</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%BE%BD%E7%AB%A0.html" rel="alternate" type="text/html" title="Bootstrap徽章" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%BE%BD%E7%AB%A0</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%BE%BD%E7%AB%A0.html"><![CDATA[<h4>胶囊式导航中的激活状态</h4>
+<ul class="nav nav-pills">
+    <li class="active">
+        <a href="#">首页
+            <span class="badge">42</span>
+        </a>
+    </li>
+    <li>
+        <a href="#">简介</a>
+    </li>
+    <li>
+        <a href="#">消息
+            <span class="badge">3</span>
+        </a>
+    </li>
+</ul>
+<p><br /></p>
+<h4>列表导航中的激活状态</h4>
+<ul class="nav nav-pills nav-stacked" style="max-width: 260px;">
+    <li class="active">
+        <a href="#">
+            <span class="badge pull-right">42</span>首页</a>
+        </li>
+    <li>
+        <a href="#">简介</a>
+    </li>
+    <li>
+        <a href="#">
+            <span class="badge pull-right">3</span>消息
+        </a>
+    </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[胶囊式导航中的激活状态 首页 42 简介 消息 3 列表导航中的激活状态 42首页 简介 3消息]]></summary></entry><entry><title type="html">Bootstrap按钮</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E6%8C%89%E9%92%AE.html" rel="alternate" type="text/html" title="Bootstrap按钮" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E6%8C%89%E9%92%AE</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E6%8C%89%E9%92%AE.html"><![CDATA[<div class="btn-group">
   <button type="button" class="btn btn-primary">Apple</button>
   <button type="button" class="btn btn-primary">Samsung</button>
   <div class="btn-group">
@@ -50,149 +156,4 @@
 <address>
   <strong>Full Name</strong><br />
   <a href="mailto:#">mailto@somedomain.com</a>
-</address>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Some Company, Inc. 007 street Some City, State XXXXX P: (123) 456-7890 Full Name mailto@somedomain.com]]></summary></entry><entry><title type="html">Bootstrap简介实例1</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1.html" rel="alternate" type="text/html" title="Bootstrap简介实例1" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1.html"><![CDATA[<div class="container">
-  <div class="jumbotron">
-    <h1>我的第一个 Bootstrap 页面</h1>
-    <p>重置窗口大小，查看响应式效果！</p> 
-  </div>
-  <div class="row">
-    <div class="col-sm-4">
-      <h3>第一列</h3>
-      <p>学的不仅是技术，更是梦想！</p>
-      <p>再牛逼的梦想,也抵不住你傻逼似的坚持！</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>第二列</h3>
-      <p>学的不仅是技术，更是梦想！</p>
-      <p>再牛逼的梦想,也抵不住你傻逼似的坚持！</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>第三列</h3>        
-      <p>学的不仅是技术，更是梦想！</p>
-      <p>再牛逼的梦想,也抵不住你傻逼似的坚持！</p>
-    </div>
-  </div>
-</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[我的第一个 Bootstrap 页面 重置窗口大小，查看响应式效果！ 第一列 学的不仅是技术，更是梦想！ 再牛逼的梦想,也抵不住你傻逼似的坚持！ 第二列 学的不仅是技术，更是梦想！ 再牛逼的梦想,也抵不住你傻逼似的坚持！ 第三列 学的不仅是技术，更是梦想！ 再牛逼的梦想,也抵不住你傻逼似的坚持！]]></summary></entry><entry><title type="html">Bootstrap简介实例2</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B2.html" rel="alternate" type="text/html" title="Bootstrap简介实例2" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B2</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B2.html"><![CDATA[<div class="table-responsive">          
- <table class="table table-striped table-bordered">
-   <thead>
-     <tr>
-       <th>#</th>
-       <th>Name</th>
-       <th>Street</th>
-     </tr>
-   </thead>
-   <tbody>
-     <tr>
-       <td>1</td>
-       <td>Anna Awesome</td>
-       <td>Broome Street</td>
-     </tr>
-     <tr>
-       <td>2</td>
-       <td>Debbie Dallas</td>
-       <td>Houston Street</td>
-     </tr>
-     <tr>
-       <td>3</td>
-       <td>John Doe</td>
-       <td>Madison Street</td>
-     </tr>
-   </tbody>
- </table>
-</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[# Name Street 1 Anna Awesome Broome Street 2 Debbie Dallas Houston Street 3 John Doe Madison Street]]></summary></entry><entry><title type="html">Bootstrap网格系统</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F.html" rel="alternate" type="text/html" title="Bootstrap网格系统" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F.html"><![CDATA[<div class="container">
-    <div class="row">
-        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
-            box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-        </div>
-        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;box-shadow: 
-        inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
-            enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-            nisi ut aliquip ex ea commodo consequat.
-            </p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
-            eiusmod tempor incididunt ut. 
-            </p>
-        </div>
- 
-        <div class="clearfix visible-xs"></div>
- 
-        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
-        box-shadow:inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
-            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-            laboris nisi ut aliquip ex ea commodo consequat. 
-            </p>
-        </div>
-        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;box-shadow: 
-        inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
-            enim ad minim 
-            </p>
-        </div>
-    </div>
-</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim]]></summary></entry><entry><title type="html">Bootstrap表单</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E5%8D%95.html" rel="alternate" type="text/html" title="Bootstrap表单" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E5%8D%95</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E5%8D%95.html"><![CDATA[<p><label for="name">默认的复选框和单选按钮的实例</label></p>
-<div class="checkbox">
-    <label><input type="checkbox" value="" />选项 1</label>
-</div>
-<div class="checkbox">
-    <label><input type="checkbox" value="" />选项 2</label>
-</div>
-<div class="radio">
-    <label>
-        <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked="" /> 选项 1
-    </label>
-</div>
-<div class="radio">
-    <label>
-        <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2" />选项 2 - 选择它将会取消选择选项 1
-    </label>
-</div>
-<p><label for="name">内联的复选框和单选按钮的实例</label></p>
-<div>
-    <label class="checkbox-inline">
-        <input type="checkbox" id="inlineCheckbox1" value="option1" /> 选项 1
-    </label>
-    <label class="checkbox-inline">
-        <input type="checkbox" id="inlineCheckbox2" value="option2" /> 选项 2
-    </label>
-    <label class="checkbox-inline">
-        <input type="checkbox" id="inlineCheckbox3" value="option3" /> 选项 3
-    </label>
-    <label class="radio-inline">
-        <input type="radio" name="optionsRadiosinline" id="optionsRadios3" value="option1" checked="" /> 选项 1
-    </label>
-    <label class="radio-inline">
-        <input type="radio" name="optionsRadiosinline" id="optionsRadios4" value="option2" /> 选项 2
-    </label>
-</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[默认的复选框和单选按钮的实例 选项 1 选项 2 选项 1 选项 2 - 选择它将会取消选择选项 1 内联的复选框和单选按钮的实例 选项 1 选项 2 选项 3 选项 1 选项 2]]></summary></entry><entry><title type="html">Bootstrap表格</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E6%A0%BC.html" rel="alternate" type="text/html" title="Bootstrap表格" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E6%A0%BC</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E6%A0%BC.html"><![CDATA[<div class="table-responsive">
-  <table class="table">
-    <caption>响应式表格布局</caption>
-    <thead>
-      <tr>
-        <th>产品</th>
-        <th>付款日期</th>
-        <th>状态</th></tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>产品1</td>
-        <td>23/11/2013</td>
-        <td>待发货</td></tr>
-      <tr>
-        <td>产品2</td>
-        <td>10/11/2013</td>
-        <td>发货中</td></tr>
-      <tr>
-        <td>产品3</td>
-        <td>20/10/2013</td>
-        <td>待确认</td></tr>
-      <tr>
-        <td>产品4</td>
-        <td>20/10/2013</td>
-        <td>已退货</td></tr>
-    </tbody>
-  </table>
-</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[响应式表格布局 产品 付款日期 状态 产品1 23/11/2013 待发货 产品2 10/11/2013 发货中 产品3 20/10/2013 待确认 产品4 20/10/2013 已退货]]></summary></entry></feed>
+</address>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Some Company, Inc. 007 street Some City, State XXXXX P: (123) 456-7890 Full Name mailto@somedomain.com]]></summary></entry></feed>
