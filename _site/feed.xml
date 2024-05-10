@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-10T08:18:12+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Bootstrap简介实例1</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1.html" rel="alternate" type="text/html" title="Bootstrap简介实例1" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1.html"><![CDATA[<div class="container">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-10T10:50:31+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Bootstrap代码</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81.html" rel="alternate" type="text/html" title="Bootstrap代码" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81.html"><![CDATA[<p><code>&lt;header&gt;</code> 作为内联元素被包围。</p>
+<p>如果需要把代码显示为一个独立的块元素，请使用 &lt;pre&gt; 标签：</p>
+<pre>
+    &lt;article&gt;
+        &lt;h1&gt;Article Heading&lt;/h1&gt;
+    &lt;/article&gt;
+</pre>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[&lt;header&gt; 作为内联元素被包围。 如果需要把代码显示为一个独立的块元素，请使用 &lt;pre&gt; 标签： &lt;article&gt; &lt;h1&gt;Article Heading&lt;/h1&gt; &lt;/article&gt;]]></summary></entry><entry><title type="html">Bootstrap图片</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87.html" rel="alternate" type="text/html" title="Bootstrap图片" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87.html"><![CDATA[<p><img src="cinqueterre.jpg" class="img-responsive" alt="Cinque  	Terre" /></p>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Bootstrap导航栏</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F.html" rel="alternate" type="text/html" title="Bootstrap导航栏" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F.html"><![CDATA[<nav class="navbar navbar-inverse" role="navigation">
+    <div class="container-fluid">
+    <div class="navbar-header">
+        <a class="navbar-brand" href="#">菜鸟教程</a>
+    </div>
+    <div>
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">iOS</a></li>
+            <li><a href="#">SVN</a></li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    Java <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">jmeter</a></li>
+                    <li><a href="#">EJB</a></li>
+                    <li><a href="#">Jasper Report</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#">分离的链接</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#">另一个分离的链接</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    </div>
+</nav>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[菜鸟教程 iOS SVN Java jmeter EJB Jasper Report 分离的链接 另一个分离的链接]]></summary></entry><entry><title type="html">Bootstrap按钮</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E6%8C%89%E9%92%AE.html" rel="alternate" type="text/html" title="Bootstrap按钮" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E6%8C%89%E9%92%AE</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E6%8C%89%E9%92%AE.html"><![CDATA[<div class="btn-group">
+  <button type="button" class="btn btn-primary">Apple</button>
+  <button type="button" class="btn btn-primary">Samsung</button>
+  <div class="btn-group">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+    Sony <span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="#">Tablet</a></li>
+      <li><a href="#">Smartphone</a></li>
+    </ul>
+  </div>
+</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Apple Samsung Sony Tablet Smartphone]]></summary></entry><entry><title type="html">Bootstrap排版</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E6%8E%92%E7%89%88.html" rel="alternate" type="text/html" title="Bootstrap排版" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E6%8E%92%E7%89%88</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E6%8E%92%E7%89%88.html"><![CDATA[<address>
+  <strong>Some Company, Inc.</strong><br />
+  007 street<br />
+  Some City, State XXXXX<br />
+  <abbr title="Phone">P:</abbr> (123) 456-7890
+</address>
+<address>
+  <strong>Full Name</strong><br />
+  <a href="mailto:#">mailto@somedomain.com</a>
+</address>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Some Company, Inc. 007 street Some City, State XXXXX P: (123) 456-7890 Full Name mailto@somedomain.com]]></summary></entry><entry><title type="html">Bootstrap简介实例1</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1.html" rel="alternate" type="text/html" title="Bootstrap简介实例1" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E7%AE%80%E4%BB%8B%E5%AE%9E%E4%BE%8B1.html"><![CDATA[<div class="container">
   <div class="jumbotron">
     <h1>我的第一个 Bootstrap 页面</h1>
     <p>重置窗口大小，查看响应式效果！</p> 
@@ -81,28 +133,66 @@
             </p>
         </div>
     </div>
-</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim]]></summary></entry><entry><title type="html">Bootstrap面包屑导航</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA.html" rel="alternate" type="text/html" title="Bootstrap面包屑导航" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA.html"><![CDATA[<ul class="breadcrumb">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">2013</a></li>
-    <li class="active">十一月</li>
-</ul>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Home 2013 十一月]]></summary></entry><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+00:00</published><updated>2018-08-22T00:00:00+00:00</updated><id>http://localhost:4000/2018/08/22/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/22/kiwifruit.html"><![CDATA[<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the
-edible berry of several species of woody vines in the genus Actinidia.</p>
-
-<p>The most common cultivar group of kiwifruit is oval, about the size of
-a large hen’s egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm
-(1.8–2.2 in) in diameter). It has a fibrous, dull greenish-brown skin
-and bright green or golden flesh with rows of tiny, black, edible
-seeds. The fruit has a soft texture, with a sweet and unique flavor.</p>]]></content><author><name>ted</name></author><summary type="html"><![CDATA[Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.]]></summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/2018/08/21/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00+00:00</published><updated>2018-08-21T00:00:00+00:00</updated><id>http://localhost:4000/2018/08/21/apples</id><content type="html" xml:base="http://localhost:4000/2018/08/21/apples.html"><![CDATA[<p>An apple is a sweet, edible fruit produced by an apple tree.</p>
-
-<p>Apple trees are cultivated worldwide, and are the most widely grown
-species in the genus Malus. The tree originated in Central Asia, where
-its wild ancestor, Malus sieversii, is still found today. Apples have
-been grown for thousands of years in Asia and Europe, and were brought
-to North America by European colonists.</p>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[An apple is a sweet, edible fruit produced by an apple tree.]]></summary></entry><entry><title type="html">Bananas</title><link href="http://localhost:4000/2018/08/20/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2018-08-20T00:00:00+00:00</published><updated>2018-08-20T00:00:00+00:00</updated><id>http://localhost:4000/2018/08/20/bananas</id><content type="html" xml:base="http://localhost:4000/2018/08/20/bananas.html"><![CDATA[<p>A banana is an edible fruit – botanically a berry – produced by several
-kinds of large herbaceous flowering plants in the genus Musa.</p>
-
-<p>In some countries, bananas used for cooking may be called “plantains”,
-distinguishing them from dessert bananas. The fruit is variable in size,
-color, and firmness, but is usually elongated and curved, with soft
-flesh rich in starch covered with a rind, which may be green, yellow,
-red, purple, or brown when ripe.</p>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.]]></summary></entry></feed>
+</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim]]></summary></entry><entry><title type="html">Bootstrap表单</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E5%8D%95.html" rel="alternate" type="text/html" title="Bootstrap表单" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E5%8D%95</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E5%8D%95.html"><![CDATA[<p><label for="name">默认的复选框和单选按钮的实例</label></p>
+<div class="checkbox">
+    <label><input type="checkbox" value="" />选项 1</label>
+</div>
+<div class="checkbox">
+    <label><input type="checkbox" value="" />选项 2</label>
+</div>
+<div class="radio">
+    <label>
+        <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked="" /> 选项 1
+    </label>
+</div>
+<div class="radio">
+    <label>
+        <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2" />选项 2 - 选择它将会取消选择选项 1
+    </label>
+</div>
+<p><label for="name">内联的复选框和单选按钮的实例</label></p>
+<div>
+    <label class="checkbox-inline">
+        <input type="checkbox" id="inlineCheckbox1" value="option1" /> 选项 1
+    </label>
+    <label class="checkbox-inline">
+        <input type="checkbox" id="inlineCheckbox2" value="option2" /> 选项 2
+    </label>
+    <label class="checkbox-inline">
+        <input type="checkbox" id="inlineCheckbox3" value="option3" /> 选项 3
+    </label>
+    <label class="radio-inline">
+        <input type="radio" name="optionsRadiosinline" id="optionsRadios3" value="option1" checked="" /> 选项 1
+    </label>
+    <label class="radio-inline">
+        <input type="radio" name="optionsRadiosinline" id="optionsRadios4" value="option2" /> 选项 2
+    </label>
+</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[默认的复选框和单选按钮的实例 选项 1 选项 2 选项 1 选项 2 - 选择它将会取消选择选项 1 内联的复选框和单选按钮的实例 选项 1 选项 2 选项 3 选项 1 选项 2]]></summary></entry><entry><title type="html">Bootstrap表格</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E6%A0%BC.html" rel="alternate" type="text/html" title="Bootstrap表格" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E6%A0%BC</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E8%A1%A8%E6%A0%BC.html"><![CDATA[<div class="table-responsive">
+  <table class="table">
+    <caption>响应式表格布局</caption>
+    <thead>
+      <tr>
+        <th>产品</th>
+        <th>付款日期</th>
+        <th>状态</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>产品1</td>
+        <td>23/11/2013</td>
+        <td>待发货</td></tr>
+      <tr>
+        <td>产品2</td>
+        <td>10/11/2013</td>
+        <td>发货中</td></tr>
+      <tr>
+        <td>产品3</td>
+        <td>20/10/2013</td>
+        <td>待确认</td></tr>
+      <tr>
+        <td>产品4</td>
+        <td>20/10/2013</td>
+        <td>已退货</td></tr>
+    </tbody>
+  </table>
+</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[响应式表格布局 产品 付款日期 状态 产品1 23/11/2013 待发货 产品2 10/11/2013 发货中 产品3 20/10/2013 待确认 产品4 20/10/2013 已退货]]></summary></entry></feed>
