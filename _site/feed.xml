@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-23T07:55:21+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Plantuml数学公式</title><link href="http://localhost:4000/2024/05/23/PlantUML%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.html" rel="alternate" type="text/html" title="Plantuml数学公式" /><published>2024-05-23T00:00:00+00:00</published><updated>2024-05-23T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/23/PlantUML%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F</id><content type="html" xml:base="http://localhost:4000/2024/05/23/PlantUML%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.html"><![CDATA[<p>下面应该是一个数学公式</p>
+
+\[\sum_{i=0}^{n-1} (a_i + b_i^2)\]]]></content><author><name>jill</name></author><summary type="html"><![CDATA[下面应该是一个数学公式]]></summary></entry><entry><title type="html">Plantuml泳道图</title><link href="http://localhost:4000/2024/05/23/PlantUML%E6%B3%B3%E9%81%93%E5%9B%BE.html" rel="alternate" type="text/html" title="Plantuml泳道图" /><published>2024-05-23T00:00:00+00:00</published><updated>2024-05-23T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/23/PlantUML%E6%B3%B3%E9%81%93%E5%9B%BE</id><content type="html" xml:base="http://localhost:4000/2024/05/23/PlantUML%E6%B3%B3%E9%81%93%E5%9B%BE.html"><![CDATA[<p>下面应该是一个泳道图</p>
+
+<div class="plantuml"><svg contentStyleType='text/css' height='149px' preserveAspectRatio='none' style='width:105px;height:149px;background:#FFFFFF;' version='1.1' viewBox='0 0 105 149' width='105px' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' zoomAndPan='magnify'><defs/><g><line style='stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;' x1='23' x2='23' y1='36.2969' y2='114.5625'/><line style='stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;' x1='77' x2='77' y1='36.2969' y2='114.5625'/><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='37' x='5' y='5'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='23' x='12' y='24.9951'>Cat</text><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='37' x='5' y='113.5625'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='23' x='12' y='133.5576'>Cat</text><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='43' x='56' y='5'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='29' x='63' y='24.9951'>Dog</text><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='43' x='56' y='113.5625'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='29' x='63' y='133.5576'>Dog</text><polygon fill='#181818' points='65.5,63.4297,75.5,67.4297,65.5,71.4297,69.5,67.4297' style='stroke:#181818;stroke-width:1.0;'/><line style='stroke:#181818;stroke-width:1.0;' x1='23.5' x2='71.5' y1='67.4297' y2='67.4297'/><text fill='#000000' font-family='sans-serif' font-size='13' lengthAdjust='spacing' textLength='30' x='30.5' y='62.3638'>hello</text><polygon fill='#181818' points='34.5,92.5625,24.5,96.5625,34.5,100.5625,30.5,96.5625' style='stroke:#181818;stroke-width:1.0;'/><line style='stroke:#181818;stroke-width:1.0;' x1='28.5' x2='76.5' y1='96.5625' y2='96.5625'/><text fill='#000000' font-family='sans-serif' font-size='13' lengthAdjust='spacing' textLength='11' x='40.5' y='91.4966'>hi</text></g></svg></div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[下面应该是一个泳道图]]></summary></entry><entry><title type="html">Bootstrap下拉菜单</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html" rel="alternate" type="text/html" title="Bootstrap下拉菜单" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html"><![CDATA[<div class="dropdown">
+    <button type="button" class="btn dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">主题
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+        <li role="presentation" class="dropdown-header">下拉菜单标题</li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">Java</a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">数据挖掘</a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">数据通信/网络</a>
+        </li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation" class="dropdown-header">下拉菜单标题</li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">分离的链接</a>
+        </li>
+    </ul>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[主题 下拉菜单标题 Java 数据挖掘 数据通信/网络 下拉菜单标题 分离的链接]]></summary></entry><entry><title type="html">Bootstrap代码</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81.html" rel="alternate" type="text/html" title="Bootstrap代码" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E4%BB%A3%E7%A0%81.html"><![CDATA[<p><code>&lt;header&gt;</code> 作为内联元素被包围。</p>
+<p>如果需要把代码显示为一个独立的块元素，请使用 &lt;pre&gt; 标签：</p>
+<pre>
+    &lt;article&gt;
+        &lt;h1&gt;Article Heading&lt;/h1&gt;
+    &lt;/article&gt;
+</pre>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[&lt;header&gt; 作为内联元素被包围。 如果需要把代码显示为一个独立的块元素，请使用 &lt;pre&gt; 标签： &lt;article&gt; &lt;h1&gt;Article Heading&lt;/h1&gt; &lt;/article&gt;]]></summary></entry><entry><title type="html">Bootstrap分页</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%88%86%E9%A1%B5.html" rel="alternate" type="text/html" title="Bootstrap分页" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%88%86%E9%A1%B5</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%88%86%E9%A1%B5.html"><![CDATA[<ul class="pagination">
+    <li><a href="#">&laquo;</a></li>
+    <li><a href="#">1</a></li>
+    <li><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    <li><a href="#">4</a></li>
+    <li><a href="#">5</a></li>
+    <li><a href="#">&raquo;</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[&laquo; 1 2 3 4 5 &raquo;]]></summary></entry><entry><title type="html">Bootstrap响应式实用工具</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7.html" rel="alternate" type="text/html" title="Bootstrap响应式实用工具" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7.html"><![CDATA[<div class="container" style="padding: 40px;">
+    <div class="row visible-on">
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-xs">特别小型</span>
+            <span class="visible-xs">✔ 在特别小型设备上可见</span>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-sm">小型</span>
+            <span class="visible-sm">✔ 在小型设备上可见</span>
+        </div>
+        <div class="clearfix visible-xs"></div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-md">中型</span>
+            <span class="visible-md">✔ 在中型设备上可见</span>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-lg">大型</span>
+            <span class="visible-lg">✔ 在大型设备上可见</span>
+        </div>
+    </div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[特别小型 ✔ 在特别小型设备上可见 小型 ✔ 在小型设备上可见 中型 ✔ 在中型设备上可见 大型 ✔ 在大型设备上可见]]></summary></entry><entry><title type="html">Bootstrap图片</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87.html" rel="alternate" type="text/html" title="Bootstrap图片" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%9B%BE%E7%89%87.html"><![CDATA[<p><img src="/assets/images/猫.png" class="img-responsive" alt="Cinque  	Terre" /></p>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Bootstrap字体图标</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%AD%97%E4%BD%93%E5%9B%BE%E6%A0%87.html" rel="alternate" type="text/html" title="Bootstrap字体图标" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%AD%97%E4%BD%93%E5%9B%BE%E6%A0%87</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%AD%97%E4%BD%93%E5%9B%BE%E6%A0%87.html"><![CDATA[<p>
+    <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-sort-by-attributes"></span>
+    </button>
+    <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-sort-by-attributes-alt"></span>
+    </button>
+    <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-sort-by-order"></span>
+    </button>
+    <button type="button" class="btn btn-default">
+        <span class="glyphicon glyphicon-sort-by-order-alt"></span>
+    </button>
+</p>
+<p><button type="button" class="btn btn-default btn-lg">
+    <span class="glyphicon glyphicon-user"></span> User
+</button>
+<button type="button" class="btn btn-default btn-sm">
+    <span class="glyphicon glyphicon-user"></span> User
+</button>
+<button type="button" class="btn btn-default btn-xs">
+    <span class="glyphicon glyphicon-user"></span> User
+</button></p>]]></content><author><name></name></author><summary type="html"><![CDATA[User User User]]></summary></entry><entry><title type="html">Bootstrap导航栏</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F.html" rel="alternate" type="text/html" title="Bootstrap导航栏" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%AF%BC%E8%88%AA%E6%A0%8F.html"><![CDATA[<nav class="navbar navbar-inverse" role="navigation">
+    <div class="container-fluid">
+    <div class="navbar-header">
+        <a class="navbar-brand" href="#">菜鸟教程</a>
+    </div>
+    <div>
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">iOS</a></li>
+            <li><a href="#">SVN</a></li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    Java <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">jmeter</a></li>
+                    <li><a href="#">EJB</a></li>
+                    <li><a href="#">Jasper Report</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#">分离的链接</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#">另一个分离的链接</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    </div>
+</nav>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[菜鸟教程 iOS SVN Java jmeter EJB Jasper Report 分离的链接 另一个分离的链接]]></summary></entry><entry><title type="html">Bootstrap徽章</title><link href="http://localhost:4000/2024/05/10/Bootstrap%E5%BE%BD%E7%AB%A0.html" rel="alternate" type="text/html" title="Bootstrap徽章" /><published>2024-05-10T00:00:00+00:00</published><updated>2024-05-10T00:00:00+00:00</updated><id>http://localhost:4000/2024/05/10/Bootstrap%E5%BE%BD%E7%AB%A0</id><content type="html" xml:base="http://localhost:4000/2024/05/10/Bootstrap%E5%BE%BD%E7%AB%A0.html"><![CDATA[<h4>胶囊式导航中的激活状态</h4>
+<ul class="nav nav-pills">
+    <li class="active">
+        <a href="#">首页
+            <span class="badge">42</span>
+        </a>
+    </li>
+    <li>
+        <a href="#">简介</a>
+    </li>
+    <li>
+        <a href="#">消息
+            <span class="badge">3</span>
+        </a>
+    </li>
+</ul>
+<p><br /></p>
+<h4>列表导航中的激活状态</h4>
+<ul class="nav nav-pills nav-stacked" style="max-width: 260px;">
+    <li class="active">
+        <a href="#">
+            <span class="badge pull-right">42</span>首页</a>
+        </li>
+    <li>
+        <a href="#">简介</a>
+    </li>
+    <li>
+        <a href="#">
+            <span class="badge pull-right">3</span>消息
+        </a>
+    </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[胶囊式导航中的激活状态 首页 42 简介 消息 3 列表导航中的激活状态 42首页 简介 3消息]]></summary></entry></feed>
